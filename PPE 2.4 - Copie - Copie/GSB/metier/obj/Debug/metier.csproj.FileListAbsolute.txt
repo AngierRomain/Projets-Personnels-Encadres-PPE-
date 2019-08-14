@@ -1,0 +1,23 @@
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.csproj.CoreCompileInputs.cache
+D:\ProjetsC#\GSB\metier\bin\Debug\metier.dll
+D:\ProjetsC#\GSB\metier\bin\Debug\metier.pdb
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.dll
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.pdb
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.csprojResolveAssemblyReference.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\bin\Debug\metier.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\bin\Debug\metier.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.csprojAssemblyReference.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.csproj.CoreCompileInputs.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.pdb
+F:\PPE\PPE 2.4\GSB\metier\bin\Debug\metier.dll
+F:\PPE\PPE 2.4\GSB\metier\bin\Debug\metier.pdb
+F:\PPE\PPE 2.4\GSB\metier\obj\Debug\metier.csprojResolveAssemblyReference.cache
+F:\PPE\PPE 2.4\GSB\metier\obj\Debug\metier.dll
+F:\PPE\PPE 2.4\GSB\metier\obj\Debug\metier.pdb
+F:\PPE\PPE 2.4 - Copie\GSB\metier\bin\Debug\metier.dll
+F:\PPE\PPE 2.4 - Copie\GSB\metier\bin\Debug\metier.pdb
+F:\PPE\PPE 2.4 - Copie\GSB\metier\obj\Debug\metier.csprojAssemblyReference.cache
+F:\PPE\PPE 2.4 - Copie\GSB\metier\obj\Debug\metier.csproj.CoreCompileInputs.cache
+F:\PPE\PPE 2.4 - Copie\GSB\metier\obj\Debug\metier.dll
+F:\PPE\PPE 2.4 - Copie\GSB\metier\obj\Debug\metier.pdb

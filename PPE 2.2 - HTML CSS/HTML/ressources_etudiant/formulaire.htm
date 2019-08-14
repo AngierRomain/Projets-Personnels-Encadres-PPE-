@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8" />
+	<title>Fruits</title>
+</head>
+
+<body style="font-family: arial;">
+	<form method = "post" action="#">
+		<fieldset style ="width: 500px; margin-left: auto; margin-right: auto;">
+		<legend>Créer un compte</legend>
+		<br/>
+		<label for="mail" style = "display: inline-block; width: 200px;"> Adresse mail : </label>
+		<input type = "text" placeholder="Saisir votre adresse mail" name="mail" id="mail" required="required" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" style="width: 200px;"/><br/><br/>
+		<label for="pass1" style = "display: inline-block; width: 200px;"> Mot de passe : </label>
+		<input type = "password" placeholder="Saisir votre mot de passe" name="pass1" id="pass1" required="required" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*\W).{8,}$"  title="Le mot de passe doit contenir au moins un chiffre, une majuscule, une minuscule, un caractère sprécial et compter au moins huit caractères." style="width: 200px;" /><br/><br/>
+		<label for="pass2" style = "display: inline-block; width: 200px;"> Confimation mot de passe : </label>
+		<input type = "password" placeholder="Confirmer votre mot de passe" name="pass2" id="pass2" required="required" style="width: 200px;" /><br/><br/>
+		<label for="nom" style = "display: inline-block; width: 200px;"> Nom : </label>
+		<input type = "text" placeholder="Saisir votre nom" name="nom" id="nom" required="required" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" style="width: 200px;"/><br/><br/>
+		<label for="prénom" style = "display: inline-block; width: 200px;"> Prénom : </label>
+		<input type = "text" placeholder="Saisir votre prénom" name="prénom" id="prénom" required="required" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" style="width: 200px;"/><br/><br/><br/>
+		<div style = "text-align: center;">
+			<input type = "submit" value = "Valider" style = "font-size: 20px; width: 150px;"/>
+		</div>
+		</fieldset>
+	</form>
+	<script>
+	
+	var pass1 = document.getElementById("pass1");
+	var pass2 = document.getElementById("pass2");
+
+	function validatePassword(){
+		if(pass1.value != pass2.value) {
+			pass2.setCustomValidity("Les mots de passe sont différents");
+		} else {
+			pass2.setCustomValidity('');
+		}
+	}
+	pass1.onchange = validatePassword;
+	pass2.onkeyup = validatePassword;
+	</script>
+</body>
+</html>

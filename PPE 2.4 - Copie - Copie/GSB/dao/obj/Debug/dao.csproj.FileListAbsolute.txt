@@ -1,0 +1,32 @@
+D:\ProjetsC#\GSB\dao\bin\Debug\dao.dll
+D:\ProjetsC#\GSB\dao\bin\Debug\dao.pdb
+D:\ProjetsC#\GSB\dao\bin\Debug\MySql.Data.dll
+D:\ProjetsC#\GSB\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+D:\ProjetsC#\GSB\dao\obj\Debug\dao.csproj.CoreCompileInputs.cache
+D:\ProjetsC#\GSB\dao\obj\Debug\dao.dll
+D:\ProjetsC#\GSB\dao\obj\Debug\dao.pdb
+D:\ProjetsC#\GSB\dao\bin\Debug\metier.dll
+D:\ProjetsC#\GSB\dao\bin\Debug\metier.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\bin\Debug\dao.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\bin\Debug\dao.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\bin\Debug\metier.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\bin\Debug\metier.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\obj\Debug\dao.csprojAssemblyReference.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\obj\Debug\dao.csproj.CoreCompileInputs.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\obj\Debug\dao.csproj.CopyComplete
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\obj\Debug\dao.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\dao\obj\Debug\dao.pdb
+F:\PPE\PPE 2.4\GSB\dao\bin\Debug\dao.dll
+F:\PPE\PPE 2.4\GSB\dao\bin\Debug\dao.pdb
+F:\PPE\PPE 2.4\GSB\dao\bin\Debug\metier.dll
+F:\PPE\PPE 2.4\GSB\dao\bin\Debug\metier.pdb
+F:\PPE\PPE 2.4\GSB\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
+F:\PPE\PPE 2.4\GSB\dao\obj\Debug\dao.dll
+F:\PPE\PPE 2.4\GSB\dao\obj\Debug\dao.pdb
+F:\PPE\PPE 2.4 - Copie\GSB\dao\bin\Debug\dao.dll
+F:\PPE\PPE 2.4 - Copie\GSB\dao\bin\Debug\dao.pdb
+F:\PPE\PPE 2.4 - Copie\GSB\dao\bin\Debug\metier.dll
+F:\PPE\PPE 2.4 - Copie\GSB\dao\bin\Debug\metier.pdb
+F:\PPE\PPE 2.4 - Copie\GSB\dao\obj\Debug\dao.dll
+F:\PPE\PPE 2.4 - Copie\GSB\dao\obj\Debug\dao.pdb
+F:\PPE\PPE 2.4 - Copie\GSB\dao\obj\Debug\dao.csprojResolveAssemblyReference.cache
